@@ -61,7 +61,7 @@
 | [Photonic Wallet connection error](articles/photonic-wallet-connection-error.md) | A connection error means the app cannot reach its server. |
 | [Check an RXD transaction on a block explorer](articles/check-rxd-transaction-on-explorer.md) | Copy the transaction ID or address from Photonic and paste it into a Radiant block explorer to see confirmations. |
 
-### Glyph tokens and dMint
+### Glyph tokens and dMint.
 
 | Guide | Answer |
 |---|---|
